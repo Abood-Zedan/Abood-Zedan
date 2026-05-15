@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abood_Zedan</h1>
+<h1 align="center">Hi 👋, I'm Abd-Al-aziz Zedan</h1>
 <h3 align="center">Welcome to my github. I am a website developer</h3>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
