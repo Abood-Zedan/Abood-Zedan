@@ -12,7 +12,7 @@
 - 📫 How to reach me **abood7tt@gmail.com**
 <h2 align="left"> Connect with me 💬 :</h2>
 <p align="left">
-<a href="https://twitter.com/abood_7zedan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abood_7zedan" height="30" width="40" /></a>
+<a href="https://twitter.com/Abood_Zed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abood_7zedan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abood-zedan-46a3662b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abood_. zedan" height="30" width="40" /></a>
 <a href="https://instagram.com/abood._.zidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abood._.zidan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abood-zedan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abood-zedan" height="30" width="40" /></a>
